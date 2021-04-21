@@ -18,7 +18,7 @@
 
 ## GitHub Stats
 
-<a href="https://github.com/dgilleland/dgilleland">
+<a href="https://github.com/nbeauvais1/nbeauvais1">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbeauvais1&hide=html&title_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
